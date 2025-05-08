@@ -12,7 +12,7 @@
 > “Dedicated coder eager to innovate and address societal issues through continuous learning, exploration, and impactful technology solutions.”
 
 - 🧑‍🎓 Currently pursuing a Diploma in Computer Engineering at **DSEU - Guru Nanak Dev Rohini Campus**
-- 💻 Focused on **Web Development**, especially responsive and modern UI designs
+- 💻 Focused on **Web Development**, especially end to end development
 - 🧠 Always curious to learn about **AI tools and automation**
 - 💬 Fluent in **English, Hindi, and Sanskrit**
 
@@ -57,7 +57,7 @@
 ---
 
 ### 🙌 Fun Fact
-> I love exploring AI tools and playing sports when I'm not coding!
+> I love exploring AI tools  when I'm not coding!
 
 
 
