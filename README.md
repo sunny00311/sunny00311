@@ -37,7 +37,6 @@
 ### 📫 Contact Me
 
 - 📧 Email: [SUNNYSAHANI003@gmail.com](mailto:SUNNYSAHANI003@gmail.com)
-- 📱 Phone: +91 7678262335
 - 🏠 Delhi, India
 - 🌐 Portfolio coming soon...
 
