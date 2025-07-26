@@ -40,7 +40,7 @@
 
 - 📧 Email: [SUNNYSAHANI003@gmail.com](mailto:SUNNYSAHANI003@gmail.com)
 - 🏠 Delhi, India
-- 🌐 ## 🌐 My Portfolio: [sunnysahni.online](https://sunnysahni.online)
+- 🌐 My Portfolio: [sunnysahni.online](https://sunnysahni.online)
 
 
 ---
